@@ -1,0 +1,41 @@
+ {
+    "publicaciones": [
+        {
+            "usuario": "@eldudas",
+            "imagen": "../assets/imagenes/dudachikita.png",
+            "caption": "toy chikito",
+            "comentario": "", 
+            "id": "011"
+          },
+
+          {
+            "usuario": "@eldudas",
+            "imagen": "../assets/imagenes/coffe.jpg",
+            "caption": "coffe",
+            "comentario": "", 
+            "id": "022"
+          },  
+
+          {
+            "usuario": "@eldudas",
+            "imagen": "../assets/imagenes/feli.jpg",
+            "caption": "feli :D ",
+            "comentario": "", 
+            "id": "033"
+          }
+    ],
+    "usuario" : {
+      "nombre":"duda",
+      "alias": "@eldudas",
+      "fotoPerfil": "../assets/imagenes/duda.jpg",
+      "seguidores": 500,
+      "seguidos": 34,
+      "bio": "adiviname esto", 
+      "publicaciones": [
+        "../assets/imagenes/dudachikita",
+        "../assets/imagenes/coffe.jpg",
+        "../assets/imagenes/feli.jpg"
+      ]
+    }
+}
+
